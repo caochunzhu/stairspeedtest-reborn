@@ -140,4 +140,4 @@ jobs:
       uses: actions/upload-artifact@v1
       with:
         name: stairspeedtest_reborn_win32
-        path: stairspeedtest/
+        path: stairspeedtest/ 
